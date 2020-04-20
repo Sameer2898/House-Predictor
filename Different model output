@@ -1,0 +1,14 @@
+                                                       OUTPUT OF DIFFERENT MODELS
+                   
+   
+   1. Linear Regression:-
+        Mean is = 5.030437102767306
+        Standard Deviation is = 1.060766115829483
+        
+    2. Decison Tree Clasifier:-
+        Mean is = 4.32883871116663
+        Standard Deviation is = 0.8256981070129369
+        
+    3. Random Forest Regressor:-
+        Mean is = 3.3523293168574084
+        Standard Deviation is = 0.7148560710478365
